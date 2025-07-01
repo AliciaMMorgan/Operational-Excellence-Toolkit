@@ -1,2 +1,2 @@
 # Operational-Excellence-Toolkit
-Artifacts from your project/program and enterprise experience through cross-sector collaboration. 
+Artifacts, frameworks, and insights from cross-industry project and program management — spanning aviation and defense, nonprofit leadership, and enterprise innovation.
