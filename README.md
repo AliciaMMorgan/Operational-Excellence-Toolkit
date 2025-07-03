@@ -43,6 +43,7 @@ People-centered practices and reflection tools:
 Curated resources that have shaped this toolkit. These include:
 
 * Innovation, systems thinking, and organizational change
+* [Innovation and Leadership Reading List](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Innovation_Leadership_Reading_List.md)
 * Ethical tech, AI adoption frameworks, and digital transformation
 * Human-centered design and stakeholder empathy practices
 * Sector-bridging leadership strategies
