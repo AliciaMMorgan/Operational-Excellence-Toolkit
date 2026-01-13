@@ -69,7 +69,7 @@ Practices are designed to transfer across sectors, not stay locked inside one do
 
 - **Empathy Map**  
   Visual stakeholder alignment tool. Makes tacit buy-in visible.  
-  *(Template: empathy-map.md)*
+  
 
 - **Risk Attitude Profiler**  
   Quick team gauge for risk tolerance across high- and low-risk sectors.  
