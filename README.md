@@ -46,7 +46,6 @@ Different industries tend to anchor on different ecosystems:
 
 Effective AI adoption respects these anchors rather than forcing new platforms. Bring intelligence to where the work already lives.
 
-*(Insert AI interaction mapping image here)*
 
 ---
 
