@@ -1,4 +1,4 @@
-# 🧭 Operational Excellence # 🧭 Operational Excellence Toolkit
+# 🧭 Operational Excellence 
 
 A collaborative lab for designing and sharing operating patterns for project and program work across industries, tools, and team environments.
 
