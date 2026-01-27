@@ -1,117 +1,71 @@
-# 🧭 Operational Excellence 
+# 🧭 Operational Excellence + Authority Catalog
 
-A collaborative lab for designing and sharing operating patterns for project and program work across industries, tools, and team environments.
+**Cross-industry PM: Less process, more progress.** A collaborative lab for designing and sharing operating patterns for project and program work across industries, tools, and team environments.
 
-This repository blends explicit artifacts (templates, maps, lightweight tools) with tacit operating mindsets drawn from experience in highly regulated and traditional environments, nonprofit agility, and modern AI-augmented workflows. The focus is simple: value delivery over activity, outcomes over outputs.
+**Authority Catalog**: Governed index of 5 interconnected repos (572+ contributions 2025) documenting patterns, frameworks, agents, and validations for enterprise AI adoption.
 
-Operational excellence is not just doing work efficiently.  
-It is designing the environment where good work can happen repeatedly.
+## 📋 Authority Catalog Overview
 
----
+| Domain | Repo | Purpose | Key Artifacts | Validations |
+|--------|------|---------|---------------|-------------|
+| Knowledge Foundation | [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook) | Canonical PM patterns across sectors | Playbooks, decision logs | PMP, PMI Agile Metrics, TEA certs |
+| Agent Implementations | [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action) | Live AI agents operationalizing patterns | Prompt libraries, risk assessors | Microsoft Foundry FastTrack |
+| Thought Leadership | [Speaking-Resources](https://github.com/AliciaMMorgan/Speaking-Resources) | Published talks & workshops | PMI decks, abstracts | AgileCon, DBJ Women in Tech |
+| Execution Tools | [Operational-Excellence-Toolkit](https://github.com/AliciaMMorgan/Operational-Excellence-Toolkit) | Metrics, dashboards, toolkits | Empathy maps, risk profilers | 25% efficiency gains |
+| *[Repo 5]* | [Link] | *[Purpose]* | *[Artifacts]* | *[Validations]* |
 
-## Why this repository exists
+## Why This Repository Exists
 
-Most project management toolkits share templates.  
-Few share operating patterns — how teams actually think, decide, collaborate, and execute across real organizational constraints.
+Most PM toolkits share templates. Few share **operating patterns**—how teams think, decide, collaborate across constraints.
 
-This space is for:
+This space makes invisible dynamics visible, designs hybrid human+AI environments, shares portable practices.
 
-- Making invisible team dynamics visible  
-- Designing hybrid human + AI working environments  
-- Sharing portable practices that transfer across industries  
-- Reducing friction between tools, people, and processes  
-
-Fork it. Adapt it. Contribute back what works in your context.
-
----
+**Fork. Adapt. Contribute.**
 
 ## 🧠 Working Environment Design
 
-Operational excellence today includes selecting and shaping the environments where thinking and execution happen. Different AI platforms have developed distinct interaction strengths, and these differences influence how teams naturally adopt them inside organizations.
+AI platforms have distinct strengths influencing adoption:
 
-Observed interaction patterns:
+| Platform | Strength | Best For |
+|----------|----------|----------|
+| Claude | Strategic analysis, long-form reasoning | Complex planning |
+| ChatGPT | Rapid synthesis, executive framing | Iteration |
+| Perplexity | Research-backed exploration | External scanning |
+| Gemini | Google Workspace collaboration | Teams |
+| Copilot | Microsoft production workflows | Enterprise docs |
 
-- Claude supports deeper strategic analysis and long-form reasoning  
-- ChatGPT supports rapid synthesis, iteration, and executive-style framing  
-- Perplexity supports research-backed exploration and external scanning  
-- Gemini integrates smoothly into collaborative Google Workspace environments  
-- Copilot integrates into Microsoft production workflows, especially slides and documentation  
-
-These are not prescriptions. They are starting points for designing hybrid human + AI working systems that match the task and the team.
-
-Different industries tend to anchor on different ecosystems:
-
-- Education environments often center on Google Workspace  
-- Enterprise operations often center on Microsoft environments  
-
-Effective AI adoption respects these anchors rather than forcing new platforms. Bring intelligence to where the work already lives.
-
-
----
+**Anchor to existing ecosystems** (Google for education, Microsoft for enterprise).
 
 ## ⚙️ Core Operating Principles
 
-**Adoption-in-Place**  
-Design AI workflows inside existing collaboration ecosystems to reduce friction and increase real adoption.
-
-**Tacit → Explicit Conversion**  
-Turn unspoken team dynamics, risk attitudes, and cultural assumptions into visible artifacts teams can act on.
-
-**Outcome-Driven Value Delivery**  
-Effectiveness (right outcomes) matters more than efficiency alone. Artifacts serve decisions, not documentation theater.
-
-**Cross-Industry Portability**  
-Practices are designed to transfer across sectors, not stay locked inside one domain.
-
----
+- **Adoption-in-Place**: AI workflows inside existing tools  
+- **Tacit → Explicit**: Make team dynamics visible  
+- **Outcome-Driven**: Effectiveness > efficiency  
+- **Cross-Industry**: Portable across sectors  
 
 ## ✨ Shared Artifacts
 
-- **Empathy Map**  
-  Visual stakeholder alignment tool. Makes tacit buy-in visible.  
-  
+- **Empathy Map**: Stakeholder alignment  
+- **Risk Attitude Profiler**: Team risk tolerance gauge  
+- **Culture Map**: Communication/decision styles  
 
-- **Risk Attitude Profiler**  
-  Quick team gauge for risk tolerance across high- and low-risk sectors.  
-  *(Excel quiz placeholder)*
-
-- **Culture Map**  
-  Bridges direct vs indirect communication and decision styles.  
-  *(Markdown table coming)*
-
-More artifacts will evolve as patterns are tested in practice.
-
----
+*(More evolving from practice)*
 
 ## 📌 Use It
 
-This is a living repository for PM operating mindsets and patterns.
+Living repo for PM operating mindsets.
 
-- Fork  
-- Adapt  
-- Contribute artifacts or operating practices  
-- Share what works in your environment  
-
-**Related Repositories**
-
-- [PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)  
-- [Innovation in Action](https://github.com/AliciaMMorgan/innovation-in-action)
-
----
+**Related**: [PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook) | [Innovation in Action](https://github.com/AliciaMMorgan/Innovation-In-Action)
 
 ## ⭐ Repository Signals
 
 - Living Repository  
-- Open to Contributions  
-- Cross-Industry Operating Patterns  
+- Open Contributions  
+- Cross-Industry Patterns  
 - AI-Augmented Operations  
-- PMI-Aligned Value Delivery  
+- PMI Value Delivery  
+
+**Tools change. Coordination endures.** Design systems for less friction, more clarity.
 
 ---
-
-## Closing Note
-
-Tools change. Industries differ.  
-Human coordination remains the constant.
-
-This toolkit is about designing systems where people, processes, and technology can work together with less friction and more shared clarity.
+*Authority Catalog updated continuously.*
