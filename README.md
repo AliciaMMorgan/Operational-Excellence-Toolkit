@@ -9,7 +9,7 @@
 | Domain | Repo | Purpose | Key Artifacts | Validations |
 |--------|------|---------|---------------|-------------|
 | Knowledge Foundation | [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook) | Canonical PM patterns | Playbooks, decision logs | PMP, PMI Agile Metrics |
-| Agent Implementations | [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action) | Live AI agents incl. [PM Risk Assessor](/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor) | Prompt libraries, risk assessors | Microsoft Foundry FastTrack |
+| Agent Implementations | [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action) | Live AI agents incl. [PM Risk Assessor](agents/pm-risk-assessor] | Prompt libraries, risk assessors | Microsoft Foundry FastTrack |
 | Thought Leadership | [Speaking-Resources](https://github.com/AliciaMMorgan/Speaking-Resources) | Published talks & workshops | PMI decks, abstracts | AgileCon 2024, DBJ Awards |
 | Execution Tools | [Operational-Excellence-Toolkit](https://github.com/AliciaMMorgan/Operational-Excellence-Toolkit) | Metrics, dashboards, toolkits | Empathy maps, risk profilers | 25% real program gains |
 
